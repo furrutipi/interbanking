@@ -27,7 +27,8 @@ mvn clean install
 ### 4. Acceso a Swagger
 Una vez que la aplicación esté en funcionamiento, puedes acceder a la documentación de la API en Swagger a través del siguiente enlace:
 
-Swagger UI
+
+Swagger UI : http://localhost:9095/swagger-ui/index.html#/
 
 ### 5. Flyway y Migraciones de Base de Datos
 La aplicación utiliza Flyway para gestionar el esquema y las migraciones de base de datos. Los scripts de migración se encuentran en el siguiente directorio:
